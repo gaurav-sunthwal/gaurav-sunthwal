@@ -16,7 +16,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaurav-sunthwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gaurav-sunthwal?cardType=github&theme=github-dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-sunthwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
