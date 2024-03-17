@@ -1,3 +1,5 @@
+# gaurav-sunthwal's Profile
+
 <img src="https://lh3.googleusercontent.com/fife/AKsag4OD9C-OV-_uZYzAqKm9Tn5k41jRwFLtEUCjFga7BsFf8VUkRETTYujS4Gh1Q8r384d0RrtWEgo4gXtEbLroxZIADVM5x3bcTNRj3xo-Lg06kZ38lmZGtIhxaQmyMXASPejlyTENkfyBV-5rDkW9z_wJKhnebD7NZE4_onLHBJI2CdidsJhWgHmpGIXkWq-BetxnIPfTU3vLWnEDQ3yjTBOSyBqkEMYEDBgNIhm-Lq20G9rT6T8s1HVLBO5aqS1n1HPOqqVto0bGwnlAZtig_MCt_aJJq5CLb18qUv98j8klS7CX1BHUnNhRhrUORYo0r_UNVrYH9QRHIqoLbaBpetTBhk_pqFReU3lR6OpMr7rxt2PPOBy8CYTpAadUcvuESRwL5LUP5I9KXWGTnu7yj9nP0WW_bheK9gTY786-rjjJBKMZJvXWy8q5s7tQhfNmF6546jbtwyq1g3iEupf1vxzwKR3NLd4HDwY5Gbu7IxBuQu0qJBUsBYXcUsJH3QwlcyoiWvrgk0qxTpuEXnh1emSuDGh88kTA_s87ZFsHCYGXKVqFwOTm69-uC0wbs0YkkzmUEFflUsgFOmdo08uB02akfbRNgADrvejz8y2uHJAOy-otX-hqmkP0mBPrvm1dhqyDEoWmAp9wAh_RGpRiqILQsM_iqifiw0GVr3Z_lxnjw0psUjcV_iV2VarlbvnODOL3WZrcsTk6OJUbuaEQ_nHjGkseoxKhxjwmAhC5u6jCgGXjexYjcQFQX6ZMAg2D-LHQjnoK1eTioaYbxe49s6YCFRJ0HQXJsmx23xGB3etnL2W7fFkmmXRscXFWGeB2AqYmmsiQltYQGF_14PurNU3wbTMBZ4FgTtcLqgZxphXpfIFwbfa1g6ovE2Wt3sdWgt_NFD0-yWRp9Rb0Qmp7TuFuupBHwJWxcjKBcA18hPDYpn0h5vYt-h1twB-DCvN1h7YFc4vznqtv5wJyJxDB9FG46CE0HB0DLRP_CaToh71y9w2zigcnNzrmbXjJttdrHqwJ7x38PaMuo1aL4QcNtUm8qrW0JVu5VpeNC7ZaACcKatbUAxx6hqF3K9okECxD1C8onHpsJ-xpjoFrMzMArCwPyyh6fiQPCcxDeL3VGHRvVYfimHnXHXhysJ1VlFK9UlRx7QtiA6ZH0FgRE_P1HDXoXVliak8tcBTHGUh8i6jqO6sJ2oM7mfxuYTTUwGDE2J4Naf08WgPc81nE3HOk2uXtUDzjYLwTFOUXewCTCtfFWFvc2T_OXVUyZL70RE-k-LqD-dGe0WyufKsDwcvNlPjAev8zatYr6Ixy2ET1uozV73aMzRa46ged9mvZS_I6cC6FkYacYK-hDEiJRG2gHL-o7Yz1cy71XqYl2zLpSDf1WPzSurEI2ZKscKqZuoRR8at0xnGZoxe53O55Yp7LqmmnzuZ7K73sJdpJ3NyFSqUOi0mayWR4dc-GueIwjHrpPsxJJXxYNxC3G_klvv8MHDjofOzNr0SjCS0DyJDPbRpvMkxRUzoyE0ixe5Ey5DwVYibO4YfeAcQ3JANJHcXPN4J-P92xlyCdvxNhrdCKJcJPYdYJwWr0FbMOSCUqcg=w2880-h1566" >
 
 # 💫 About Me:
@@ -6,10 +8,36 @@
 <img align="right" width=400 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding"/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav_sunthwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-sunthwal) 
+![X](https://img.shields.io/badge/gaurav162022-171717?logo=X&logoColor=white)
+![instagram](https://img.shields.io/badge/gaurav_sunthwal-171717?logo=instagram&logoColor=white)
+![Discord](https://img.shields.io/badge/gauravsunthwal-171717?logo=Discord&logoColor=white)
+![Linkedin](https://img.shields.io/badge/in/gaurav-sunthwal-171717?logo=Linkedin&logoColor=white)
+![Youtube](https://img.shields.io/badge/@gauravsunthwal-171717?logo=Youtube&logoColor=white)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+![React](https://skillicons.dev/icons?i=react)
+![Unreal](https://skillicons.dev/icons?i=unreal)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
+![Replit](https://skillicons.dev/icons?i=replit)
+![Cpp](https://skillicons.dev/icons?i=cpp)
+![Css](https://skillicons.dev/icons?i=css)
+![Typescript](https://skillicons.dev/icons?i=typescript)
+![Js](https://skillicons.dev/icons?i=js)
+![Nuxtjs](https://skillicons.dev/icons?i=nuxtjs)
+![Threejs](https://skillicons.dev/icons?i=threejs)
+![Nextjs](https://skillicons.dev/icons?i=nextjs)
+![Nodejs](https://skillicons.dev/icons?i=nodejs)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Github](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Npm](https://skillicons.dev/icons?i=npm)
+![Yarn](https://skillicons.dev/icons?i=yarn)
+![Vscode](https://skillicons.dev/icons?i=vscode)
+![Apple](https://skillicons.dev/icons?i=apple)
+![Aws](https://skillicons.dev/icons?i=aws)
+![Python](https://skillicons.dev/icons?i=python)
+![Redux](https://skillicons.dev/icons?i=redux)
 
   ### 🔝 Top Contributed Repo
   ![](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-sunthwal&theme=gruvbox&hide_border=false)
@@ -30,5 +58,3 @@
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gauravsunthwal) 
 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
