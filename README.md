@@ -16,28 +16,36 @@
 
 # 💻 Tech Stack:
 
-![React](https://skillicons.dev/icons?i=react)
-![Unreal](https://skillicons.dev/icons?i=unreal)
-![Wordpress](https://skillicons.dev/icons?i=wordpress)
-![Replit](https://skillicons.dev/icons?i=replit)
-![Cpp](https://skillicons.dev/icons?i=cpp)
-![Css](https://skillicons.dev/icons?i=css)
-![Typescript](https://skillicons.dev/icons?i=typescript)
-![Js](https://skillicons.dev/icons?i=js)
-![Nuxtjs](https://skillicons.dev/icons?i=nuxtjs)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Flask](https://skillicons.dev/icons?i=flask)
+![Angular](https://skillicons.dev/icons?i=angular)
 ![Threejs](https://skillicons.dev/icons?i=threejs)
+![Vue](https://skillicons.dev/icons?i=vue)
+![React](https://skillicons.dev/icons?i=react)
 ![Nextjs](https://skillicons.dev/icons?i=nextjs)
-![Nodejs](https://skillicons.dev/icons?i=nodejs)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Github](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Npm](https://skillicons.dev/icons?i=npm)
-![Yarn](https://skillicons.dev/icons?i=yarn)
-![Vscode](https://skillicons.dev/icons?i=vscode)
-![Apple](https://skillicons.dev/icons?i=apple)
-![Aws](https://skillicons.dev/icons?i=aws)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Js](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
-![Redux](https://skillicons.dev/icons?i=redux)
+![R](https://skillicons.dev/icons?i=r)
+![Ruby](https://skillicons.dev/icons?i=ruby)
+![Typescript](https://skillicons.dev/icons?i=typescript)
+![Go](https://skillicons.dev/icons?i=go)
+![Css](https://skillicons.dev/icons?i=css)
+![Cpp](https://skillicons.dev/icons?i=cpp)
+![Github](https://skillicons.dev/icons?i=github)
+![Gitlab](https://skillicons.dev/icons?i=gitlab)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Replit](https://skillicons.dev/icons?i=replit)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Vscode](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 
   ### 🔝 Top Contributed Repo
   ![](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-sunthwal&theme=gruvbox&hide_border=false)
@@ -56,5 +64,11 @@
 
   ## 💰 You can help me by Donating
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gauravsunthwal) 
+
+
+
+
+
+
 
 
