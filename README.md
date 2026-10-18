@@ -1,70 +1,298 @@
-# gaurav-sunthwal's Profile
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Gaurav%20Sunthwal&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Engineer%20%E2%80%A2%20LLM%20Apps%20%E2%80%A2%20Next.js%20%E2%80%A2%20FastAPI&descAlignY=58&descSize=18" alt="Gaurav Sunthwal" />
+</p>
 
-<img src="https://lh3.googleusercontent.com/fife/AKsag4OD9C-OV-_uZYzAqKm9Tn5k41jRwFLtEUCjFga7BsFf8VUkRETTYujS4Gh1Q8r384d0RrtWEgo4gXtEbLroxZIADVM5x3bcTNRj3xo-Lg06kZ38lmZGtIhxaQmyMXASPejlyTENkfyBV-5rDkW9z_wJKhnebD7NZE4_onLHBJI2CdidsJhWgHmpGIXkWq-BetxnIPfTU3vLWnEDQ3yjTBOSyBqkEMYEDBgNIhm-Lq20G9rT6T8s1HVLBO5aqS1n1HPOqqVto0bGwnlAZtig_MCt_aJJq5CLb18qUv98j8klS7CX1BHUnNhRhrUORYo0r_UNVrYH9QRHIqoLbaBpetTBhk_pqFReU3lR6OpMr7rxt2PPOBy8CYTpAadUcvuESRwL5LUP5I9KXWGTnu7yj9nP0WW_bheK9gTY786-rjjJBKMZJvXWy8q5s7tQhfNmF6546jbtwyq1g3iEupf1vxzwKR3NLd4HDwY5Gbu7IxBuQu0qJBUsBYXcUsJH3QwlcyoiWvrgk0qxTpuEXnh1emSuDGh88kTA_s87ZFsHCYGXKVqFwOTm69-uC0wbs0YkkzmUEFflUsgFOmdo08uB02akfbRNgADrvejz8y2uHJAOy-otX-hqmkP0mBPrvm1dhqyDEoWmAp9wAh_RGpRiqILQsM_iqifiw0GVr3Z_lxnjw0psUjcV_iV2VarlbvnODOL3WZrcsTk6OJUbuaEQ_nHjGkseoxKhxjwmAhC5u6jCgGXjexYjcQFQX6ZMAg2D-LHQjnoK1eTioaYbxe49s6YCFRJ0HQXJsmx23xGB3etnL2W7fFkmmXRscXFWGeB2AqYmmsiQltYQGF_14PurNU3wbTMBZ4FgTtcLqgZxphXpfIFwbfa1g6ovE2Wt3sdWgt_NFD0-yWRp9Rb0Qmp7TuFuupBHwJWxcjKBcA18hPDYpn0h5vYt-h1twB-DCvN1h7YFc4vznqtv5wJyJxDB9FG46CE0HB0DLRP_CaToh71y9w2zigcnNzrmbXjJttdrHqwJ7x38PaMuo1aL4QcNtUm8qrW0JVu5VpeNC7ZaACcKatbUAxx6hqF3K9okECxD1C8onHpsJ-xpjoFrMzMArCwPyyh6fiQPCcxDeL3VGHRvVYfimHnXHXhysJ1VlFK9UlRx7QtiA6ZH0FgRE_P1HDXoXVliak8tcBTHGUh8i6jqO6sJ2oM7mfxuYTTUwGDE2J4Naf08WgPc81nE3HOk2uXtUDzjYLwTFOUXewCTCtfFWFvc2T_OXVUyZL70RE-k-LqD-dGe0WyufKsDwcvNlPjAev8zatYr6Ixy2ET1uozV73aMzRa46ged9mvZS_I6cC6FkYacYK-hDEiJRG2gHL-o7Yz1cy71XqYl2zLpSDf1WPzSurEI2ZKscKqZuoRR8at0xnGZoxe53O55Yp7LqmmnzuZ7K73sJdpJ3NyFSqUOi0mayWR4dc-GueIwjHrpPsxJJXxYNxC3G_klvv8MHDjofOzNr0SjCS0DyJDPbRpvMkxRUzoyE0ixe5Ey5DwVYibO4YfeAcQ3JANJHcXPN4J-P92xlyCdvxNhrdCKJcJPYdYJwWr0FbMOSCUqcg=w2880-h1566" >
+<p align="center">
+  <a href="https://gauravsunthwal.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=I+build+LLM-powered+products+end+to+end+%F0%9F%A4%96;Shipped+apps+used+by+2%2C500%2B+people+%F0%9F%9A%80;Next.js+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Grounded+AI%3A+the+model+cites%2C+the+code+decides+%E2%9C%85;Currently+building+Rolesetu+%E2%80%94+AI+job+matching" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💫 About Me:
-👋 Welcome to My GitHub Profile!<br><br>I'm Gaurav Sunthwal<br>Passionate Web Developer | Crafting Digital Experiences | Problem Solver<br><br>Passionate Computer Science student at MIT-World Peace University, adept in web development (ReactJS, HTML, CSS, Node.js). Eager to learn, innovate, and collaborate for impactful tech solutions. Let's connect and explore the exciting possibilities! 🚀
+<p align="center">
+  <a href="https://gauravsunthwal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gaurav-sunthwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gauravsunthwalwork@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/gaurav162022"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCJt6XG8c6keFeEU0L22vNBA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/gaurav_sunthwal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/gaurav162022-171717?logo=X&logoColor=white)](https://X.com/gaurav162022)
-[![instagram](https://img.shields.io/badge/gaurav_sunthwal-171717?logo=instagram&logoColor=white)](https://instagram.com/gaurav_sunthwal)
-[![Linkedin](https://img.shields.io/badge/in/gaurav-sunthwal-171717?logo=Linkedin&logoColor=white)](https://Linkedin.com/in/gaurav-sunthwal)
-# 💻 Tech Stack:
-
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Angular](https://skillicons.dev/icons?i=angular)
-![Threejs](https://skillicons.dev/icons?i=threejs)
-![Vue](https://skillicons.dev/icons?i=vue)
-![React](https://skillicons.dev/icons?i=react)
-![Nextjs](https://skillicons.dev/icons?i=nextjs)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Js](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![R](https://skillicons.dev/icons?i=r)
-![Ruby](https://skillicons.dev/icons?i=ruby)
-![Typescript](https://skillicons.dev/icons?i=typescript)
-![Go](https://skillicons.dev/icons?i=go)
-![Css](https://skillicons.dev/icons?i=css)
-![Cpp](https://skillicons.dev/icons?i=cpp)
-![Github](https://skillicons.dev/icons?i=github)
-![Gitlab](https://skillicons.dev/icons?i=gitlab)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Replit](https://skillicons.dev/icons?i=replit)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Windows](https://skillicons.dev/icons?i=windows)
-![Vscode](https://skillicons.dev/icons?i=vscode)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-
-  ### 🔝 Top Contributed Repo
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-sunthwal&theme=gruvbox&hide_border=false)
-
-
-# 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gaurav-sunthwal?cardType=github&theme=github-dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-sunthwal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<img align="right" width=400 src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaurav-sunthwal&label=Profile%20Views&color=7c3aed&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/gaurav-sunthwal?label=Followers&color=7c3aed&style=flat&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/📍-Pune,%20India-7c3aed?style=flat" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=flat" alt="open to work" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gaurav-sunthwal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gauravsunthwal) 
+## 🧑‍💻 About Me
 
-<img width="100%" src="./github-user-contribution.svg" alt="coding"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" />
 
+I'm a **Full Stack & AI Engineer** with **1+ year of production experience** building web apps, REST APIs, and LLM-powered products end to end. I care about AI that's **grounded, testable, and safe**: structured outputs, cited evidence, and scores computed in code, not guessed by a model.
 
+- 🚀 Building **[Rolesetu](https://github.com/gaurav-sunthwal/Rolesetu)**, an AI job-matching platform live on the Chrome Web Store
+- 📱 Shipped production apps used by **2,000+** and **500+** users on Google Play & the App Store
+- 🧠 Deep into **LLM pipelines, embeddings, prompt-injection defense & structured outputs**
+- 🎓 B.Tech Computer Engineering @ **MIT World Peace University** (2027)
+- 💬 Ask me about **Next.js, FastAPI, PostgreSQL/PostGIS, Gemini API, React Native**
 
+> [!TIP]
+> I'm **open to full-time roles & internships** in Full Stack / AI Engineering. Let's talk → [gauravsunthwalwork@gmail.com](mailto:gauravsunthwalwork@gmail.com)
 
+<br clear="right" />
 
+---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,swift&perline=7" /></a>
+  <br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,fastapi,spring&perline=8" /></a>
+  <br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,sqlite,dynamodb,firebase,aws,cloudflare,vercel,githubactions,git,jest,vitest,linux&perline=12" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings%20(MiniLM)-FF9D00?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native%20%2F%20Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome%20Ext%20(MV3)-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+</p>
+
+<details>
+<summary><b>📂 Click to see the full skill breakdown</b></summary>
+<br/>
+
+| Category | Technologies |
+|:--|:--|
+| 🤖 **AI & LLMs** | Gemini API, structured outputs (Pydantic), prompt engineering, grounding, prompt-injection defense, embeddings (MiniLM), NLP |
+| 💻 **Languages** | TypeScript, JavaScript (ES6+), Python, SQL, HTML5, CSS3, Java |
+| 🎨 **Frontend** | React, Next.js, Redux Toolkit, Zustand, TanStack Query, Tailwind CSS, Chrome Extensions (MV3), Accessibility |
+| ⚙️ **Backend** | FastAPI, Pydantic, Node.js, Express, REST APIs, WebSockets, zod, Spring, Stripe, Razorpay, RevenueCat |
+| 🗄️ **Databases** | PostgreSQL, PostGIS, Neon, SQLAlchemy, Alembic, Drizzle ORM, DynamoDB, SQLite, Firebase |
+| 🔐 **Auth & Security** | Firebase Auth, JWT, OAuth (Google, Apple), httpOnly sessions, CSRF protection, rate limiting |
+| ☁️ **Cloud & Mobile** | AWS S3, Cloudflare R2, Railway, Vercel, CI/CD, Sentry, React Native, Expo, iOS, Android |
+| 🧪 **Testing** | pytest, Vitest, Jest, React Testing Library, ESLint, code review, Agile/Scrum |
+
+</details>
+
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>📱 Full Stack / Mobile App Developer Intern — Terminal 2</b> &nbsp;·&nbsp; <i>Sep 2025 – Present</i></summary>
+<br/>
+
+**ScrollShop**, a short-video commerce platform (Google Play · App Store)
+
+- Build and maintain a production app used by **2,000+ users**, integrated with backend REST APIs
+- Integrated **Stripe & Razorpay** payments and checkout flows
+- Improved feed performance with optimized list rendering, a **multi-player video pool**, and offline caching
+- Added push notifications, WhatsApp deep linking, and the Facebook SDK; handled builds, signing, and store releases
+
+</details>
+
+<details>
+<summary><b>🔎 Full Stack App Developer Intern — Humanity Founders</b> &nbsp;·&nbsp; <i>Jul 2026 – Sep 2026</i></summary>
+<br/>
+
+**FaceSearch**, a reverse image search app (Google Play · App Store)
+
+- Owned the product **end to end**, from architecture to release; reached **500+ users in 2 months**
+- Integrated Firebase Auth, REST APIs, email/push notifications, and **RevenueCat** subscriptions
+- Set up CI/CD release pipelines and used **Sentry** for production monitoring and debugging
+
+</details>
+
+<details>
+<summary><b>🏦 Full Stack Developer Intern — Arealis</b> &nbsp;·&nbsp; <i>Jun 2025 – Aug 2025</i></summary>
+<br/>
+
+- Built production web apps with **Next.js, TypeScript & Tailwind** on a **FastAPI + PostgreSQL (Neon)** backend
+- Built automation for handling **failed bank transactions**, across frontend and backend
+- Implemented email automation with **Resend**; supported deployment and performance work
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/gaurav-sunthwal/Rolesetu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-sunthwal&repo=Rolesetu&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" /></a>
+  <a href="https://github.com/gaurav-sunthwal/phenko-mat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-sunthwal&repo=phenko-mat&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" /></a>
+  <br/>
+  <a href="https://github.com/gaurav-sunthwal/scanmark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-sunthwal&repo=scanmark&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" /></a>
+  <a href="https://github.com/gaurav-sunthwal/freeflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-sunthwal&repo=freeflow&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" /></a>
+</p>
+
+### 🎯 Rolesetu — AI Job Matching Platform & Chrome Extension
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Live%20on%20Chrome%20Web%20Store-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tests-372%20passing-22c55e?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
+
+Scores any job against your resume **skill by skill, with cited evidence**, right beside the Apply button on LinkedIn, Naukri, Indeed, and career sites.
+
+```mermaid
+flowchart LR
+    A[📄 Job Page<br/>LinkedIn · Naukri · Indeed] --> B[🧩 Chrome Extension MV3]
+    B --> C[⚡ FastAPI Backend]
+    C --> D{Engine}
+    D -->|Cloud| E[🤖 Gemini Step 1<br/>Extract requirements]
+    E --> F[🤖 Gemini Step 2<br/>Judge each skill]
+    F --> G[✅ Pydantic validation<br/>evidence cited by ID]
+    D -->|Zero-cost local| H[📚 235-skill taxonomy<br/>+ MiniLM embeddings]
+    G --> I[🧮 Score computed in code]
+    H --> I
+    I --> J[📊 Verdict beside Apply button]
+```
+
+<details>
+<summary><b>🔧 How the LLM client stays reliable</b></summary>
+<br/>
+
+- **Model fallback chain** and **API-key rotation**
+- **Backoff retries**, timeouts, and **versioned prompts**
+- **Prompt-injection guards** on scraped job content
+- The model can't invent evidence or scores: verdicts cite evidence by ID, and the final score is computed in code
+- Edits the user's own resume PDF in place
+
+</details>
+
+<details>
+<summary><b>📍 Phenko Mat — Location-Based Swipe Marketplace</b></summary>
+<br/>
+
+`Next.js` `TypeScript` `Node.js` `PostgreSQL + PostGIS` `Drizzle` `WebSockets` `Firebase Auth` `Zustand` `Cloudflare R2`
+
+- Swipe marketplace for nearby free or low-cost items
+- PostGIS feed with a **partial GiST index** and SQL ranking by distance, taste, and freshness
+- Node.js **WebSocket chat gateway** with HMAC-signed tickets, read receipts, and backoff reconnect
+- API secured with Firebase Auth, CSRF checks, and rate limiting
+
+</details>
+
+<details>
+<summary><b>🧑‍🎓 ScanMark — AI Face Recognition Attendance System</b></summary>
+<br/>
+
+`Next.js` `FastAPI` `TypeScript` `PostgreSQL` `AWS S3` `DynamoDB` `React Native`
+
+- Next.js API + Python FastAPI face-recognition service + mobile client with **group recognition** and **offline mode**
+- Storage split by workload: **S3** for photos, **DynamoDB** for face encodings, **PostgreSQL** for attendance
+- JWT-secured REST API
+
+</details>
+
+<details>
+<summary><b>🎙️ FreeFlow — Private Voice Typing for Mac</b></summary>
+<br/>
+
+`Swift` `macOS`
+
+- Hold a key, speak in any app, let go: clean, punctuated text appears at your cursor
+- **No account, no subscription, no cloud.** Everything runs on-device
+
+</details>
+
+---
+
+## 🗺️ My Journey
+
+```mermaid
+timeline
+    title Gaurav's Developer Journey
+    Early days : Started with HTML, CSS, JavaScript & React
+               : Joined MIT-WPU for B.Tech Computer Engineering
+    Jun 2025   : Full Stack Intern @ Arealis
+               : Next.js + FastAPI + PostgreSQL in production
+    Sep 2025   : Mobile/Full Stack Intern @ Terminal 2
+               : ScrollShop reaches 2,000+ users
+    2026       : Launched Rolesetu on the Chrome Web Store
+               : FaceSearch @ Humanity Founders hits 500+ users
+    2027       : Graduating & building what's next 🚀
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gaurav-sunthwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gaurav-sunthwal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-sunthwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0f0c29&title_color=a78bfa" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-sunthwal&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gaurav-sunthwal&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+    <img src="https://streak-stats.demolab.com?user=gaurav-sunthwal&theme=default&hide_border=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-sunthwal&theme=tokyo-night&hide_border=true&area=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff" width="100%" />
+</p>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-sunthwal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</p>
+</details>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav-sunthwal/gaurav-sunthwal/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/gaurav-sunthwal/gaurav-sunthwal/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's build something great together.</b><br/>
+  <a href="mailto:gauravsunthwalwork@gmail.com">📫 gauravsunthwalwork@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://gauravsunthwal.vercel.app">🌐 gauravsunthwal.vercel.app</a>
+</p>
+
+<p align="center">
+  <a href="https://paypal.me/gauravsunthwal"><img src="https://img.shields.io/badge/Support%20my%20work-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</p>
