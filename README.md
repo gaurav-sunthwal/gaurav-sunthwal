@@ -1,11 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Gaurav%20Sunthwal&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Engineer%20%E2%80%A2%20LLM%20Apps%20%E2%80%A2%20Next.js%20%E2%80%A2%20FastAPI&descAlignY=58&descSize=18" alt="Gaurav Sunthwal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=2500&pause=99999&color=A78BFA&center=true&vCenter=true&repeat=false&width=800&height=80&lines=%F0%9F%91%8B+Hi%2C+I%27m+Gaurav+Sunthwal" alt="Hi, I'm Gaurav Sunthwal" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20%26%20AI%20Engineer-LLM%20Apps%20%C2%B7%20Next.js%20%C2%B7%20FastAPI-7c3aed?style=for-the-badge&labelColor=1e1b4b" alt="Full Stack & AI Engineer" />
 </p>
 
 <p align="center">
   <a href="https://gauravsunthwal.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=I+build+LLM-powered+products+end+to+end+%F0%9F%A4%96;Shipped+apps+used+by+2%2C500%2B+people+%F0%9F%9A%80;Next.js+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Grounded+AI%3A+the+model+cites%2C+the+code+decides+%E2%9C%85;Currently+building+Rolesetu+%E2%80%94+AI+job+matching" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=I+build+LLM-powered+products+end+to+end+%F0%9F%A4%96;Shipped+apps+used+by+2%2C500%2B+people+%F0%9F%9A%80;Next.js+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Grounded+AI%3A+the+model+cites%2C+the+code+decides+%E2%9C%85;Building+Rolesetu%3A+AI+job+matching+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaurav-sunthwal&label=Profile%20Views&color=7c3aed&style=flat" alt="profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=gaurav-sunthwal&label=Profile%20Views&color=12&icon=5&pretty=true" alt="profile views" />
   <img src="https://img.shields.io/github/followers/gaurav-sunthwal?label=Followers&color=7c3aed&style=flat&logo=github" alt="followers" />
   <img src="https://img.shields.io/badge/📍-Pune,%20India-7c3aed?style=flat" alt="location" />
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=flat" alt="open to work" />
@@ -28,8 +32,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" />
 
 I'm a **Full Stack & AI Engineer** with **1+ year of production experience** building web apps, REST APIs, and LLM-powered products end to end. I care about AI that's **grounded, testable, and safe**: structured outputs, cited evidence, and scores computed in code, not guessed by a model.
 
@@ -42,7 +44,6 @@ I'm a **Full Stack & AI Engineer** with **1+ year of production experience** bui
 > [!TIP]
 > I'm **open to full-time roles & internships** in Full Stack / AI Engineering. Let's talk → [gauravsunthwalwork@gmail.com](mailto:gauravsunthwalwork@gmail.com)
 
-<br clear="right" />
 
 ---
 
@@ -313,5 +314,5 @@ timeline
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%E2%9C%A8;Let%27s+build+something+great+together+%F0%9F%9A%80" alt="Thanks for visiting" />
 </p>
