@@ -264,22 +264,41 @@ timeline
 
 ---
 
-## 🐍 Contribution Snake
+## 🟪 Contribution Overview
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav-sunthwal/gaurav-sunthwal/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/gaurav-sunthwal/gaurav-sunthwal/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav-sunthwal&theme=tokyonight" width="100%" alt="profile summary" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav-sunthwal&theme=tokyonight" height="165" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurav-sunthwal&theme=tokyonight" height="165" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurav-sunthwal&theme=tokyonight&utcOffset=5.5" height="165" alt="productive time" />
+</p>
+
+<details>
+<summary><b>🟩 Click to see my full contribution chart</b></summary>
+<br/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/7c3aed/gaurav-sunthwal" width="100%" alt="contribution chart" />
+</p>
+</details>
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote & Joke
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </p>
+
+<details>
+<summary><b>😂 Need a laugh? Click for a random dev joke</b></summary>
+<br/>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="random dev joke" />
+</p>
+</details>
 
 ---
 
